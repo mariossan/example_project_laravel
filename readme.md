@@ -7,14 +7,14 @@ This project is created with docker,PHP (Laravel), MySQL & NGINX and to run this
     $ bash start_project.sh
 ```
 
-## Second: Follow this instruccions
+## Second: Follow the instruccions
 
 ### Copy el .env
 ```
     $ cp .env.example .env
 ```
 
-### Ejecutando el proyecto
+### Executing code
 ```
     $ docker-compose up --build -d
 ```
